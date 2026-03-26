@@ -26,3 +26,4 @@ C:\Users\s33786\Downloads\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\r
 C:\Users\s33786\Downloads\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.pdb
 C:\Users\s33786\Downloads\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.genruntimeconfig.cache
 C:\Users\s33786\Downloads\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\ref\LinqConsoleLab.PL.dll
+C:\Users\s33786\Downloads\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.sourcelink.json
